@@ -325,3 +325,18 @@ h3{
 
   }
 }
+
+
+/* ------footer------ */
+
+.footer{
+  width:100%;
+  text-align: center;
+  padding: 30px o;
+}
+
+.footer h4{
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
