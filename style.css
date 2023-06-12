@@ -53,9 +53,11 @@ nav img {
     margin:auto;
     transition:0.5s;
 }
+
 .nav-links ul li:hover::after{
     width: 100%;
 }
+
 .text-box{
   width:90%;
   color:white;
